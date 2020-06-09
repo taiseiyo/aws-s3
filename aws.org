@@ -1,5 +1,6 @@
 * ec2 開始方法
 https://aws.amazon.com/jp/ec2/getting-started/
+
 https://qiita.com/gussan-dayo/items/4b01f88914612377f371
 
 * ec2 elastic IP
