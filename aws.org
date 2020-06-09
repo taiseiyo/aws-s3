@@ -1,0 +1,8 @@
+ec2 開始方法
+https://aws.amazon.com/jp/ec2/getting-started/
+https://qiita.com/gussan-dayo/items/4b01f88914612377f371
+
+ec2 elastic IP
+https://ac-5.net/aws/aws_elasticip_allocation
+s3
+https://agohack.com/access-to-aws-s3-using-iam-roles/#toc_id_4
